@@ -50,7 +50,7 @@ title = soup.title
 #     print(i['href'])
 
 # Taking HTML from a variable instead of requests:
-# Bs4 just needs the HTML. It doesn't matter where it came from. We can also make a variable, write HTML in that and give it to bs4. It can be done like this:
+# Bs4 just needs the HTML. It doesn't matter where it came from. We can also make a variable, write HTML in that and give it to bs4. It can be done like this:-
 html = '''
 <body>
     <ul>
